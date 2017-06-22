@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta content='user-scalable=0' name='viewport' />
-<link href="styles.css" rel="stylesheet">
+<link href="style.css" rel="stylesheet">
 </head>
 <body>
 <div id="a">
